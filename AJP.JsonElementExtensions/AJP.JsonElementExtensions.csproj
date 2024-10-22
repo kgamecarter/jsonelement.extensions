@@ -14,7 +14,8 @@
     <RepositoryUrl>https://github.com/andrewjpoole/jsonelement.extensions</RepositoryUrl>
     <PackageTags>JsonElement dynamic System.Text.Json AddProperty</PackageTags>
     <PackageReleaseNotes>
-        1.7.0) upgrade to net6.0 and latest packages
+        1.8.0) upgrade to net8.0 and latest packages
+	    1.7.0) upgrade to net6.0 and latest packages
 	    1.6.0) added support for JsonElements when adding/updating properties, thanks to leandrosilva
 		1.5.0) added InsertProperty, UpdateProperty and ParseAsJsonStringAndMutatePreservingOrder methods and associated tests
 		1.4.0) added support for IEnumerables, nested objects, better handle null values, thanks to hanabanashiku
@@ -23,9 +24,9 @@
 		1.1.0) changed target framework to netstandard2.0
 		1.0.0) initial version
     </PackageReleaseNotes>
-    <AssemblyVersion>1.7.0.0</AssemblyVersion>
-    <FileVersion>1.7.0.0</FileVersion>
-    <Version>1.7.0</Version>
+    <AssemblyVersion>1.8.0.0</AssemblyVersion>
+    <FileVersion>1.8.0.0</FileVersion>
+    <Version>1.8.0</Version>
     <RepositoryType>github</RepositoryType>
   </PropertyGroup>
 
